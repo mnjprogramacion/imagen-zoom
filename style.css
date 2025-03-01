@@ -29,3 +29,16 @@ body {
     width: 500px;
     height: auto;
 }
+
+#imagen1:hover {
+    zoom: 150%;
+}
+
+/* texto */
+
+.texto {
+    margin: 24px;
+    background-color: #393E46;
+    color: #EEEEEE;
+    padding: 24px;
+}
